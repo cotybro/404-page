@@ -48,4 +48,4 @@
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/cotybro})
+- GitHub [@cotybro](https://github.com/cotybro)
